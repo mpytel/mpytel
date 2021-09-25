@@ -5,6 +5,9 @@
 1. DITA and XLST processing.
 2. ...
 ## 🌱 I’m currently learning
+-  Win11 hardware developer documentation
+-  DX7 implimentation by 
+## 🌱 I’m was learning
 -  Flawless markup authoring with Dillinger, PyPi packaging and React.
 ## 💞️ I’m looking to collaborate on nothing with no one.  
 -  Well, if offering help with knowledge retrieval, maybe. 
