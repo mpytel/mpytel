@@ -5,10 +5,10 @@
 1. DITA and XLST processing.
 2. ...
 ## 🌱 I’m currently learning
--  Win11 hardware developer documentation
--  DX7 implimentation by 
+-  How to set up a OAuth2 authorization server
+-  DX7 implimentation by DEXED using Live DAW
 ## 🌱 I’m was learning
--  Flawless markup authoring with Dillinger, PyPi packaging and React.
+-  GitHub OAuth2 api
 ## 💞️ I’m looking to collaborate on nothing with no one.  
 -  Well, if offering help with knowledge retrieval, maybe. 
 ## 📫 You can reach me using martin@pidev.com
